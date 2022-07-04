@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="password_requirements">Your password should have a minimum of 8 characters and contain at least one number, one uppercase, one lower case letter. You can use special characters.</string>
+</resources>
